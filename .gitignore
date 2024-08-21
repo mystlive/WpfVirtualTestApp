@@ -1,0 +1,62 @@
+# Visual Studio
+.vscode/
+.vs/
+*.code-workspace
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Auto-generated files
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# MSTest test Results
+[Tt]est[Rr]esult*
+[Tt]est[Rr]esults/
+[Bb]uild[Ll]og.* 
+
+# Include if your project builds a website in wwwroot
+#wwwroot/
+
+# Uncomment if using NuGet directories/packages
+#N[Bb]ackages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# Uncomment if using Encrypted packages
+*.snupkg
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+$RECYCLE.BIN/
+
+# Windows shortcut files
+*.lnk
